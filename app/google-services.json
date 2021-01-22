@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "84267666299",
+    "firebase_url": "https://chattingvideo-8bb98.firebaseio.com",
+    "project_id": "chattingvideo-8bb98",
+    "storage_bucket": "chattingvideo-8bb98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84267666299:android:cbe9937de997ad846d4bde",
+        "android_client_info": {
+          "package_name": "com.portfolio.chatting_video"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84267666299-2i8nuiom4eqp8vrg2iv0lfoaepeq0hof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.portfolio.chatting_video",
+            "certificate_hash": "9a896075a93a94334361bdecced57e0f8f6080fa"
+          }
+        },
+        {
+          "client_id": "84267666299-suh4eoq6mcle6bdt4dvrfo9d2a9nn4ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWJ4Vk5swBFkPnPfu46u7ZOEstNTxqXhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84267666299-suh4eoq6mcle6bdt4dvrfo9d2a9nn4ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
